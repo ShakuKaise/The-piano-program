@@ -1,0 +1,15 @@
+C:\mpt\С#\The piano program\The piano program\bin\Debug\net6.0\The piano program.exe
+C:\mpt\С#\The piano program\The piano program\bin\Debug\net6.0\The piano program.deps.json
+C:\mpt\С#\The piano program\The piano program\bin\Debug\net6.0\The piano program.runtimeconfig.json
+C:\mpt\С#\The piano program\The piano program\bin\Debug\net6.0\The piano program.dll
+C:\mpt\С#\The piano program\The piano program\bin\Debug\net6.0\The piano program.pdb
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.csproj.AssemblyReference.cache
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.GeneratedMSBuildEditorConfig.editorconfig
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.AssemblyInfoInputs.cache
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.AssemblyInfo.cs
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.csproj.CoreCompileInputs.cache
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.dll
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\refint\The piano program.dll
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.pdb
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\The piano program.genruntimeconfig.cache
+C:\mpt\С#\The piano program\The piano program\obj\Debug\net6.0\ref\The piano program.dll
